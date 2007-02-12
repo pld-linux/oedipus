@@ -1,5 +1,5 @@
 Summary:	The Oedipus Web Scanner Project
-Summary(pl.UTF-8):   Oedipus - narzędzie do skanowania aplikacji WWW
+Summary(pl.UTF-8):	Oedipus - narzędzie do skanowania aplikacji WWW
 Name:		oedipus
 Version:	1.7.4.1
 Release:	0.1
