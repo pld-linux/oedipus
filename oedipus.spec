@@ -1,5 +1,5 @@
 Summary:	The Oedipus Web Scanner Project
-Summary(pl):	Oedipus - narzêdzie do skanowania aplikacji WWW
+Summary(pl.UTF-8):   Oedipus - narzÄ™dzie do skanowania aplikacji WWW
 Name:		oedipus
 Version:	1.7.4.1
 Release:	0.1
@@ -23,8 +23,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Oedipus is an open source web application security analysis and
 testing suite.
 
-%description -l pl
-Oedipus to zestaw narzêdzi do analizy i testów bezpieczeñstwa
+%description -l pl.UTF-8
+Oedipus to zestaw narzÄ™dzi do analizy i testÃ³w bezpieczeÅ„stwa
 aplikacji WWW.
 
 %prep
